@@ -1,0 +1,205 @@
+
+.footersec .contactus_sec{
+    background-color: #dff2fd;
+    height: 450px;
+}
+.footersec .contactus_sec .first_row{
+    text-align: center;
+}
+.footersec .contactus_sec .first_row .sec_desc{
+    font-size: 16px;
+    font-weight: 500;
+}
+.footersec .contactus_sec .sec_row{
+    width: 80%;
+    margin: auto;
+}
+.footersec .contactus_sec  .coontact_us_card{
+    background-color: #008fda;
+}
+.footersec .contactus_sec .form-control ,
+.footersec .contactus_sec .form-select{
+    background: none;
+    border: none;
+    border-bottom: 1px solid #dadada;
+    border-radius: 0px;
+    box-shadow: none;
+    color: #FFF;
+}
+.footersec .contactus_sec .form-label{
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.footersec .contactus_sec .btn-white{
+    background-color: #fff;
+    border: 1px solid #008fda;
+    color: #008fda;
+    border-radius: 0px;
+    width: 150px;
+}
+.footersec .contactus_sec .btn-white:hover{
+    background-color: #008fda;
+    color: #fff;
+    border-radius: 0px;
+    width: 150px;
+    border: 1px solid #fff;
+}
+.footersec .contactus_sec .rightsec{
+    padding: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.footersec .contactus_sec .leftsec{
+    padding: 30px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-right: 1px solid #fff;
+}
+.footersec .contactus_sec .leftsec .sec_title{
+    font-size: 24px;
+    color: #fff;
+    font-weight: 600;
+
+}
+.footersec .contactus_sec .leftsec .circle_wht{
+    background-color: #fff;
+    color: #008fda;
+    font-weight: 500;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footersec .contactus_sec .leftsec .sec_div{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    position: relative;
+}
+.footersec .contactus_sec .sec_div .sec-title{
+    font-size: 22px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+.footersec .contactus_sec .sec_div .sec_desc{
+    font-size: 14px;
+    color: #fff;
+    line-height: 28px;
+
+}
+.footersec .contactus_sec .sec_div .dotted:after{
+    content: "";
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    left: 4%;
+    border-left: 2px dotted #fff;
+    height: 100%;
+
+}
+.footersec .footer_last_sec{
+    background-color: #000;
+    color: #fff;
+}
+.footersec .footer_last_sec .list_title{
+    font-size: 18px;
+    color: #0074bb;
+    font-weight: 600;
+}
+.footersec .footer_last_sec .footer_ul{
+    list-style: none;
+    padding-left: 0px;
+    line-height: 35px;
+    color: #d6d6d6;
+}
+.footer_last_sec .top_height{
+    padding-top: 25%;
+}
+.footer_last_sec .footer_til{
+    font-size: 26px;
+    font-weight: 500;
+}
+.footer_last_sec .lastsec .list_title{
+    color: #fff;
+    background-color: #0074bb;
+    width: 150px;
+    padding: 5px;
+    font-weight: 400;
+    padding-left: 10px;
+}
+.footer_last_sec .lastsec .social_div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+.footer_last_sec .lastsec .social_div p{
+    margin-bottom: 0px;
+}
+.footer_last_sec .lastsec .social_div i{
+    background-color: #0074bb;
+    padding: 8px;
+    font-size: 24px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer_last_sec .logosec .sec_desc{
+    font-size: 16px;
+    color: #fff;
+
+}
+.footer_last_sec .logosec .social_icons {
+ display: flex;
+ flex-direction: row;
+ gap: 10px;
+}
+.footer_last_sec .logosec .social_icons i{
+    background: #008fda;
+    font-size: 18px;
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+
+}
+.footersec .contactus_sec .form-select option{
+    color: #000;
+}
+.errors_style{
+color: #fff;
+font-size: 14px;
+font-weight: 600;
+position: absolute;
+}
+.footer_ul li a{
+    color: #fff;
+    cursor: pointer;
+}
+.footer_ul li a:hover{
+    color: #008fda;
+    cursor: pointer;
+}
+.footer_last_sec .logosec .social_icons i:hover{
+    background-color: #fff;
+    color: #008fda;
+
+}
+.footer_ul .social_div .social_link{
+    font-size: 14px;
+    color: #d6d6d6;
+}
+.footer_ul .social_div .social_link:hover{
+    color:#0074bb;
+}
